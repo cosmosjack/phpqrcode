@@ -1,5 +1,5 @@
 {
-  "name": "doing/phpqrcode",
+  "name": "oss_dog/phpqrcode",
   "description": "基于phpqrcode修改的二维码生成工具:可自定义二维码颜色和头像",
   "keywords": [
     "phpqrcode","二维码"
@@ -10,6 +10,10 @@
     {
       "name": "Doing",
       "email": "vip.dulin@gmial.com"
+    },
+    {
+      "name": "Jack",
+      "email": "jack@gmial.com"
     }
   ],
   "require": {
